@@ -14,18 +14,18 @@ export const Home = () => {
 
     <div className={style.container}>
 
-      <text className={style.textoP}>Nome: <text className={style.conteudo}> teste </text> </text> <br/>
-      <text className={style.textoP}>Idade: <text className={style.conteudo}> 24 anos </text> </text> <br/>
-      <text className={style.textoP}>Cidade: <text className={style.conteudo}> São Paulo </text> </text> <br/>
+      <text className={style.textoP}>Nome: <text className={style.conteudo}> Iasmin </text> </text> <br/>
+      <text className={style.textoP}>Idade: <text className={style.conteudo}> 18 anos </text> </text> <br/>
+      <text className={style.textoP}>Cidade: <text className={style.conteudo}> Pirapora do Bom Jesus </text> </text> <br/>
       <text className={style.textoP}>Estado: <text className={style.conteudo}> São Paulo </text> </text> <br/>
-      <text className={style.textoP}>Responsável: <text className={style.conteudo}> 24 anos </text> </text> <br/>
+      <text className={style.textoP}>Responsável: <text className={style.conteudo}> Lourival Júnior </text> </text> <br/>
       <text className={style.textoP}>Tipo Sanguíneo: <text className={style.conteudo}> AB+ </text> </text> <br/>
-      <text className={style.textoP}>Alergia: <text className={style.conteudo}> Lactóse </text> </text> <br/>
-      <text className={style.textoP}>Medicamento: <text className={style.conteudo}> Rivotril </text> </text> <br/>
-      <text className={style.textoP}>Quantidade: <text className={style.conteudo}> 1 unidade </text> </text> <br/>
-      <text className={style.textoP}>Horário: <text className={style.conteudo}> 12:00 </text> </text> <br/>
+      <text className={style.textoP}>Alergia: <text className={style.conteudo}> Amendoim </text> </text> <br/>
+      <text className={style.textoP}>Medicamento: <text className={style.conteudo}> Dipirona </text> </text> <br/>
+      <text className={style.textoP}>Quantidade: <text className={style.conteudo}> 1 comprimido </text> </text> <br/>
+      <text className={style.textoP}>Horário: <text className={style.conteudo}> 14:00 </text> </text> <br/>
       <text className={style.textoP}>Temperamento: <text className={style.conteudo}> Calma </text> </text> <br/>
-      <text className={style.textoP}>Como acalmar: <text className={style.conteudo}> Não há necessidade </text> </text> <br/>
+      <text className={style.textoP}>Como acalmar: <text className={style.conteudo}> Diálogo longo </text> </text> <br/>
 
     </div>
     </>
